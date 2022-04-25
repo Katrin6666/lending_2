@@ -3,3 +3,5 @@ tmp/
 *.png_backup
 Thumbs.db
 img/.DS_Store
+.DS_Store
+*.DS_Store
